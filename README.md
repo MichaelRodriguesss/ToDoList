@@ -11,5 +11,5 @@
 ---
 
 <h1 align="center">
-<img src="ezgif.com-gif-maker (3).gif" />
+<img src="ezgif.com-gif-maker (1).gif" />
 </h1>
